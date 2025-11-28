@@ -1,35 +1,27 @@
 # Novatra Learning Initiative
 
-Novatra Learning Initiative is a digital education platform designed to simplify access to high-quality learning resources. It aims to bridge the gap between students, educators, and modern technology by creating a space for collaborative and accessible learning.
+Novatra Learning Initiative is a digital learning platform built to make quality education simple, accessible, and collaborative. The goal is to create an environment where modern technology empowers students and educators to learn, teach, and grow together.
 
 # About the Project
 
-Novatra Learning Initiative is an early-stage prototype built to represent our vision of a centralized platform where:
+Novatra Learning Initiative is currently an early-stage prototype that represents the foundation of a larger vision. The project aims to build a centralized education hub where:
 
-Students can discover and enroll in learning programs.
+• Students can explore and enroll in curated learning programs.
+• Educators can share knowledge through structured resources and interactive sessions.
+• The community can collaborate, solve problems, and uplift one another through shared learning tools.
 
-Educators can share resources and host sessions.
-
-The community can grow together through interactive tools.
-
-This project currently serves as a frontend model for future development.
+This version serves as a frontend model, demonstrating the core design and user experience planned for future development.
 
 # Tech Stack
 
-HTML5 – Structure and content
-
-CSS3 – Styling and responsive design
-
-JavaScript – Basic interactivity
-
-(Backend planned for future release)
+HTML5 – Provides the structural layout of the platform.
+CSS3 – Handles visual design, responsiveness, and UI polish.
+JavaScript – Powers essential interactivity across pages.
+Backend – Planned for future implementation to support authentication, dashboards, and data management.
 
 # Features
 
-Clean and responsive user interface
-
-Enroll button linked to Google registration form
-
-Integrated social handles (WhatsApp, Instagram, Gmail)
-
-Optimized for GitHub Pages hosting
+• Clean, responsive, and user-friendly interface.
+• Enroll button connected directly to a Google Registration Form.
+• Integrated social links (WhatsApp, Instagram, Gmail) for quick communication.
+• Optimized and deployed for GitHub Pages.
